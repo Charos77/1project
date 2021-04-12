@@ -1,0 +1,63 @@
+/* @media (max-width: 1440px) {} */
+/* @media (max-width: 1366px) {} */
+/* @media (max-width: 1320px) {} */
+/* @media (max-width: 1290px) {} */
+/* @media (max-width: 1140px) {} */
+/* @media (max-width: 1024px) {} */
+/* @media (max-width: 992px) {} */
+@media (max-width: 768px) {
+  .span {
+      width: 100%;
+      border: 3px solid yellow;
+  }
+
+  .span2{
+      width: 100%;
+      border: 3px solid yellow;
+  }
+  .span3{
+      width: 100%;
+      border: 3px solid yellow;
+  }
+  .span4{
+      width: 100%;
+      border: 3px solid yellow;
+  }
+
+}
+@media (max-width: 736px) {
+    .span:hover{
+        -webkit-line-clamp: unset;
+    }
+    .span{
+        -webkit-line-clamp: 4;
+    }
+    .span4:hover{
+        -webkit-line-clamp: unset;
+    }
+    .span4{
+        -webkit-line-clamp: 4;
+    }
+    .text-limited{
+        display: -webkit-box;
+        overflow: hidden;
+        -webkit-box-orient: vertical;
+        text-overflow: ellipsis;
+    }
+}
+/* @media (max-width: 734px) {} */
+/* @media (max-width: 684px) {} */
+/* @media (max-width: 667px) {} */
+/* @media (max-width: 576px) {} */
+@media (max-width: 414px) {
+    .alt{
+        display: block;
+        width: 100%;
+    }
+}
+@media (max-width: 412px) {
+   
+}
+/* @media (max-width: 375px) {} */
+/* @media (max-width: 360px) {} */
+/* @media (max-width: 320px) {} */

@@ -1,0 +1,102 @@
+.charos{
+    color: coral;
+    background: rgb(22, 13, 151);
+    text-align: center;
+    padding: 20px;
+}
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: cornflowerblue;
+}
+.span{
+    width: 900px;
+    border: 5px solid yellow;
+    margin: 0 auto;
+    text-align: center;
+    background: rgb(22, 13, 151);
+    color: rosybrown;
+    border-radius: 25px;
+    margin-top: 17px;
+
+}
+
+
+
+.link{
+    text-align: center;
+    margin-top: 15px;
+    text-decoration: none;
+
+}
+a{
+    color: yellowgreen;
+    text-decoration: none;
+}
+.link2{
+    text-align: center;
+    margin-top: 15px;
+}
+.mm{
+    text-align: center;
+    margin-top: 15px;
+}
+.kk{
+    text-align: center;
+    margin-top: 15px;
+}
+h2{
+    text-align: center;
+    padding: 20px;
+    background: rgb(22, 13, 151);
+    color: coral;
+    margin-top: 15px;
+}
+.img2{
+    text-align: center;
+}
+.img-center{
+    text-align: center;
+}
+.span2{ 
+     width: 900px;
+    border: 5px solid yellow;
+    margin: 0 auto;
+    text-align: center;
+    background: rgb(22, 13, 151);
+    color: rosybrown;
+    border-radius: 25px;
+    margin-top: 17px;
+
+}
+.span3{ 
+    width: 900px;
+    border: 5px solid yellow;
+    margin: 0 auto;
+    text-align: center;
+    background: rgb(22, 13, 151);
+    color: rosybrown;
+    border-radius: 25px;
+    margin-top: 17px;
+
+}
+.img{
+    margin-top: 15px;
+}
+.img4{
+    margin-top: 15px;
+}
+.span4{
+    width: 900px;
+    border: 5px solid yellow;
+    margin: 0 auto;
+    text-align: center;
+    background: rgb(22, 13, 151);
+    color: rosybrown;
+    border-radius: 25px;
+    margin-top: 17px;
+
+}
